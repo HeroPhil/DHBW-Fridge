@@ -30,13 +30,13 @@
 * Einordnung in Risikoklassen
 * Bewertungen und Strategien
 
-### [Product Vision Board](./product/Product\ Vision\ Board.xlsx)
+### [Product Vision Board](./product/ProductVisionBoard.xlsx)
 * Vision
 * Ziel /-gruppen
 * Cash Flows
 * Channels
 
-### [Qualitätsmatrix](./product/Qualitätsmatrix.xlsx")
+### [Qualitätsmatrix](./product/Qualitätsmatrix.xlsx)
 * Bewertung/Einordnung der Produktqualitäten
 * Differenzierte Gewichtung
 * Darstellung in Qualitätsmatrix
