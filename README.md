@@ -20,7 +20,7 @@
 ## [Dokumente zu den Produkt Spezifika](./product)
 
 ### [Aufwandsschätzung](./product/Aufwandsschätzung.xlsx)
-* Betrachtung einzelner Items abgeleitet aus der [UserStoryMap](./product/UserStroyMap.xlsx)
+* Betrachtung einzelner Items abgeleitet aus der [UserStoryMap](./product/UserStoryMap.xlsx)
 * Individuelle Einschätzung des Aufwands der einzelnen Item durch die Projektgruppen-Mitglieder
 * Gemeinsame Aufwandsschätzung nach Abgleich der individuellen Einschätzungen
 
@@ -31,9 +31,9 @@
 * Operationale Metriken
 * Fitness Funktionen
 
-### [Personae](./product/Personae)
+### [Personae](./product/Personae.xlsx)
 * Steckbriefe zu fikten Personae
-* [User Storys](./product/UserStroyMap.xlsx) basieren auf diesen Personae
+* [User Storys](./product/UserStoryMap.xlsx) basieren auf diesen Personae
 
 ### [Product Vision Board](./product/ProductVisionBoard.xlsx)
 * Vision
@@ -51,8 +51,8 @@
 * Business Requirements
 * Business Rules
 * Constraints
-* User Classes / [Personae](./product/Personae)
-* Epics / [User Stroys](./product/UserStroyMap.xlsx)
+* User Classes / [Personae](./product/Personae.xlsx)
+* Epics / [User Stroys](./product/UserStoryMap.xlsx)
 * User Requirements
 * Functional Requirements
 * Non-Functional Requirements
@@ -67,7 +67,7 @@
 ### [UserStoryMap](./product/UserStroyMap.xlsx)
 * User Journey / Activities
 * Abgeleitet aus User Stories
-* Berücksichtigung der [Personae](./product/Personae)
+* Berücksichtigung der [Personae](./product/Personae.xlsx)
 
 ---
 
