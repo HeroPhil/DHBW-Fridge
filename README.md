@@ -68,6 +68,7 @@
 * User Journey / Activities
 * Abgeleitet aus User Stories
 * Berücksichtigung der [Personae](./product/Personae.xlsx)
+* Releaseplanung
 
 ---
 
